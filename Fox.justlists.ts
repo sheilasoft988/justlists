@@ -19,7 +19,7 @@
         }
  
     ],
-    "logoURI":"https://justswap.io/favicon.ico",
+    "logoURI":"https://static.tronscan.org/production/upload/logo/new/TEgxhyHLeqZitwBXHgw82pWyy4Sc8oMcL3.png",
     "version":{
         "patch":0,
         "major":1,
