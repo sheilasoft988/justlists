@@ -6,18 +6,9 @@
             "address":"TEgxhyHLeqZitwBXHgw82pWyy4Sc8oMcL3",
             "chainId":1,
             "decimals":6,
-            "name":"SUN TOKEN",
+            "name":"FoxCoin",
             "logoURI":"https://static.tronscan.org/production/upload/logo/new/TEgxhyHLeqZitwBXHgw82pWyy4Sc8oMcL3.png"
-        },
-        {
-            "symbol":"FOX",
-            "address":"TEgxhyHLeqZitwBXHgw82pWyy4Sc8oMcL3",
-            "chainId":1,
-            "decimals":6,
-            "name":"SUN TOKEN",
-            "logoURI":"https://static.tronscan.org/production/upload/logo/new/TEgxhyHLeqZitwBXHgw82pWyy4Sc8oMcL3.png"
-        }
- 
+        } 
     ],
     "logoURI":"https://static.tronscan.org/production/upload/logo/new/TEgxhyHLeqZitwBXHgw82pWyy4Sc8oMcL3.png",
     "version":{
