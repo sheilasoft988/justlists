@@ -30,7 +30,7 @@
     "version":{
         "patch":0,
         "major":1,
-        "minor":0
+        "minor":1
     },
     "timestamp":1727538985000
 }
